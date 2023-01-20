@@ -3,7 +3,7 @@
     // AGREGO UN COMENTARIO DE PRUEBA
 
 
-	$array = array("rueda", "capot", "puerta", "volante", "butaca", "bocina", "espejo");
+	$array = array("rueda", "capot", "puerta", "volante", "butaca", "bocina", "espejo", "vidrio");
 	
 	var_dump($array);
 	
