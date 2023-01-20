@@ -1,5 +1,6 @@
 <?php
 
+    // AGREGO UN COMENTARIO DE PRUEBA
 
 
 	$array = array("rueda", "capot", "puerta", "volante", "butaca", "bocina", "espejo");
