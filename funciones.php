@@ -17,7 +17,7 @@
 		}
 
 
-//voy a comenzar con codeigniter
+$auto= car; 
 
 
 
